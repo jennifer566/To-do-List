@@ -1,5 +1,5 @@
 # To-do-List
-Simplistic Todo List using React. My goal was to create a simple todo list that was interactive, easy to use, and had a cohesive design.
+My goal was to create a simple todo list using React that was interactive, easy to use, and had a cohesive design.
 To start I broke down the UI into a component hierarchy considering each class, css, and design layers. 
 1. App.jsx contains the entire app.
 2. NewToDoForm.jsx contains the user input
