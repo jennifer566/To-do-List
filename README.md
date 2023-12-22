@@ -19,3 +19,6 @@ The TodoItem component provides a visual representation of an individual todo it
 <br />
 
 The ToDoList.jsx  component is responsible for rendering the list of todo items. It receives three props: todos, toggleTodo, and deleteTodo. These props are functions and data related to managing todo items. The todos prop is an array of todo items, while toggleTodo and deleteTodo are functions to handle toggling and deleting todos. The map() function maps over the todos array, creating a TodoItem component for each todo in the list. Each TodoItem is passed the properties of the individual todo (...todo), a unique key based on the id of the todo, and the toggleTodo and deleteTodo callback functions. The conditional rendering ensures that if the list is empty, a message indicating "No Todos" is displayed.
+
+reference tutorial from : https://youtu.be/Rh3tobg7hEo?feature=shared 
+
